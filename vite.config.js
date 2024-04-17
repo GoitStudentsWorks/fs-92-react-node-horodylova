@@ -12,5 +12,5 @@ export default defineConfig({
           assets: '/src/assets'
         },
       },
-      base: '/project-AquaSquad/',
+      base: '/fs-92-react-node-horodylova/',
     });
