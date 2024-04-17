@@ -1,4 +1,4 @@
-import{u as n,a as d,j as e}from"./index-ca7bdc4a.js";import{s as t}from"./iconSprite-ab2f072c.js";const c="/fs-92-react-node-horodylova/assets/Mobile-5fe6b51a.png",x="/fs-92-react-node-horodylova/assets/Tablet-35ea9a82.png",p="/fs-92-react-node-horodylova/assets/bg_main_page-3f3e4f1c.png",l="/fs-92-react-node-horodylova/assets/bg_el_main_page-9802d73b.png",h=n.div`
+import{u as n,a as d,j as e}from"./index-e493702e.js";import{s as t}from"./iconSprite-3c529344.js";const c="/fs-92-react-node-horodylova/assets/Mobile-5fe6b51a.png",x="/fs-92-react-node-horodylova/assets/Tablet-35ea9a82.png",p="/fs-92-react-node-horodylova/assets/bg_main_page-3f3e4f1c.png",l="/fs-92-react-node-horodylova/assets/bg_el_main_page-9802d73b.png",h=n.div`
 padding-bottom: 40px;
 
 @media screen and (min-width: 768px) {
